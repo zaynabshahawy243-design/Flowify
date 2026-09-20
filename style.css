@@ -331,8 +331,7 @@ body {
 }
 
 .footer {
-    background-color: var(--text-color);
-    /* خلفية داكنة للتباين */
+    background-color: var(--text-color);
     color: #94a3b8;
     padding: 80px 20px 30px;
 }
